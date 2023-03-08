@@ -11,7 +11,8 @@ The web project aims to provide customers with a seamless shopping experience, f
 Additionally, the project aims to provide exceptional customer service and support. We understand the importance of having a reliable support system for customers, and therefore, we will have a knowledgeable and friendly customer support team available to answer any questions and provide assistance whenever needed.
 
 Overall, the main motivation of this keyboard and its parts online store web project is to become a trusted and reliable source for customers seeking high-quality products, competitive prices, and excellent customer service. The website's goal is to make it easier for customers to find and purchase the best keyboard products and accessories available on the market, ultimately enhancing their overall experience and satisfaction.
-
+ 
+ 
 
 ## Users of the web app: define user categories and develop descriptions for each category
 - **Keyboard Enthusiasts:** These users are passionate about keyboards and are always on the lookout for the latest and greatest products to enhance their typing experience. They are interested in unique and high-quality products that can improve their typing speed and accuracy.
